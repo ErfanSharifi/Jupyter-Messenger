@@ -1,5 +1,5 @@
 # Jupyter-Messenger
-it is about the messenger application with python and design with Tkinter
+it is about the messenger application with python and designing with Tkinter
 i will be happy if you shre your ideas with me for develop this application.
 for run this code you needed to instal tkinter library.with this command:
 pip install thinter
