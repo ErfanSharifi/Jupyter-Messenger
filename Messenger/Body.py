@@ -67,7 +67,7 @@ class Infrastructure():
 
 #\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ Setting-Button \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
-                Setting_image =PhotoImage(file = "/root/Desktop/Tkinter/Messenger/Doc/menu30.png").subsample(15, 15)
+                Setting_image =PhotoImage(file = "/root/Desktop/Messenger/Doc/menu30.png").subsample(15, 15)
                 Setting_image.image = Setting_image
 
                 self.Setting_Button =Button(self.set, image = Setting_image, height =45,width = 45, command =self.Settings ,compound = LEFT)
