@@ -106,7 +106,7 @@ def main():
     root =Tk()
     root.resizable(0,0)
     root.geometry("900x925+300+600")
-    root.title("Erfan Messenger")
+    root.title("Jupiter Messenger")
     app =Infrastructure(root)
     root.mainloop()
 
